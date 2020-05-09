@@ -27,3 +27,6 @@ The original data consisted in arrays with a greyscale value for each pixel. We 
     
     
  80% of our images are contained inside the train folder, and the last 20% are inside the validation folder.
+<br/>
+Download the haarcascade_frontalface_default.xml from the opencv library for real time prediction. <br>
+Link: https://github.com/opencv/opencv/blob/master/data/haarcascades/haarcascade_frontalface_default.xml
